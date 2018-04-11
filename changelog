@@ -1,0 +1,5 @@
+ansible-openldap-database (0.1) UNRELEASED; urgency=medium
+
+  * Initial release.
+
+ -- Styopa Semenukha <ssemenukha@developmentgateway.org>  Wed, 11 Apr 2018 16:50:01 -0400
