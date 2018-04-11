@@ -1,0 +1,16 @@
+Source: openldap-database
+Section: admin
+Priority: optional
+Maintainer: Styopa Semenukha <ssemenukha@developmentgateway.org>
+Build-Depends:
+ debhelper (>= 11),
+ dh-python,
+ python-all
+Standards-Version: 4.1.3
+Homepage: https://github.com/devgateway/ansible-module-openldap-database
+
+Package: openldap-database
+Architecture: all
+Depends: ${python:Depends}, ${misc:Depends}, ansible
+Description: OpenLDAP database management module for Ansible
+ Module plugin for Ansible to add or remove OpenLDAP databases.
