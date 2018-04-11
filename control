@@ -1,4 +1,4 @@
-Source: openldap-database
+Source: ansible-openldap-database
 Section: admin
 Priority: optional
 Maintainer: Styopa Semenukha <ssemenukha@developmentgateway.org>
