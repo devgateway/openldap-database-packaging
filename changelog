@@ -1,5 +1,6 @@
-ansible-openldap-database (0.1) UNRELEASED; urgency=medium
+ansible-openldap-database (0.2) UNRELEASED; urgency=medium
 
   * Initial release.
+  * New upstream release.
 
- -- Styopa Semenukha <ssemenukha@developmentgateway.org>  Wed, 11 Apr 2018 16:50:01 -0400
+ -- Styopa Semenukha <ssemenukha@developmentgateway.org>  Fri, 13 Apr 2018 16:56:40 -0400
