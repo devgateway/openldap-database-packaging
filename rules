@@ -6,9 +6,5 @@ build:
 	markdown README.md > $(README_FILE)
 	dh $@
 
-clean:
-	rm -f $(README_FILE)
-	dh $@
-
 %:
 	dh $@
