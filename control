@@ -2,7 +2,9 @@ Source: ansible-openldap-database
 Section: admin
 Priority: optional
 Maintainer: Styopa Semenukha <ssemenukha@developmentgateway.org>
-Build-Depends: debhelper (>= 11)
+Build-Depends:
+ debhelper (>= 11),
+ markdown
 Standards-Version: 4.1.3
 Homepage: https://github.com/devgateway/ansible-module-openldap-database
 

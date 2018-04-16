@@ -1,4 +1,14 @@
 #!/usr/bin/make -f
 #export DH_VERBOSE = 1
+README_FILE = README.html
+
+build:
+	markdown README.md > $(README_FILE)
+	dh $@
+
+clean:
+	rm -f $(README_FILE)
+	dh $@
+
 %:
 	dh $@
