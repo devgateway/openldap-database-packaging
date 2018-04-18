@@ -1,7 +1,8 @@
-ansible-openldap-database (0.3) UNRELEASED; urgency=medium
+ansible-openldap-database (0.4) UNRELEASED; urgency=medium
 
   * Initial release.
   * New upstream release.
   * Upstream included readme file.
+  * Corrected config directory detection.
 
  -- Styopa Semenukha <ssemenukha@developmentgateway.org>  Mon, 16 Apr 2018 13:49:26 -0400
